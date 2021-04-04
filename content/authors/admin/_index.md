@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:imcgreg@ncsu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/realclimatian
@@ -76,8 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ian is a Geospatial Analytics PhD student at NC State University, where he is a NASA Future Investigator researching near real-time monitoring of deforestation. His advisor is Dr. Josh Gray, with whom Ian has analyzed phenology and carbon flux responses to climate change. Prior to his time at NC State, Ian worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
