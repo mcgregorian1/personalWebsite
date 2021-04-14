@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ian McGregor
+title: Ian R. McGregor
 
 # Is this the primary user of the site?
 superuser: true
