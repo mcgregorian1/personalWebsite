@@ -18,7 +18,7 @@ authors:
 - Neil Pederson
 - Kristina J. Anderson-Teixeira
 
-date: "October 2020"
+date: "2020-10-13"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
