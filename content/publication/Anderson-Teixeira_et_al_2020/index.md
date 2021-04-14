@@ -1,9 +1,6 @@
 ---
 title: "Long-Term Impacts of Invasive Insects and Pathogens on Composition, Biomass, and Diversity of Forests in Virginia’s Blue Ridge Mountains"
 
-Anderson-Teixeira, K.J., Herrmann, V., Cass, W.B., Williams, A.B., Paull, S.J., Gonzalez-Akre, E.B., Helcoski, R., Tepley, A.J., Bourg, N.A., Cosma, C.T., Ferson, A.E., Kittle, C., Meakem, V., McGregor, I.R., Prestipino, M.N., Scott, M.K., Terrell, A.R., Alonso, A., Dallmeier, F., McShea, W.J., 2020. Long-Term Impacts of Invasive Insects and Pathogens on Composition, Biomass, and Diversity of Forests in Virginia’s Blue Ridge Mountains. Ecosystems 24, 89–105. https://doi.org/10.1007/s10021-020-00503-w
-
-
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
