@@ -5,26 +5,26 @@ title: "Long-Term Impacts of Invasive Insects and Pathogens on Composition, Biom
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Anderson-Teixeira, KJ
-- Herrmann, V
-- Cass, WB
-- Williams, AB
-- Paull, SJ
-- Gonzalez-Akre, EB
-- Helcoski, R
-- Tepley, AJ
-- Bourg, NA
-- Cosma, CT
-- Ferson, AE
-- Kittle, C
-- Meakem, V
+- Kristina J. Anderson-Teixeira
+- Valentine Herrmann
+- Wendy B. Cass
+- Alan B. Williams
+- Stephen J. Paull
+- Erika B. Gonzalez-Akre
+- Ryan Helcoski
+- Alan J. Tepley
+- Norm A. Bourg
+- Christopher T. Cosma
+- Abigail E. Ferson
+- Caroline Kittle
+- Victoria Meakem
 - admin
-- Prestipino, MN
-- Scott, MK
-- Terrell, AR
-- Alonso, A
-- Dallmeier, F
-- McShea, WJ
+- Maya N. Prestipino
+- Michael K. Scott
+- Alyssa R. Terrell
+- Alfonso Alonso
+- Francisco Dallmeier
+- William J. McShea
 
 date: "2020-04-29"
 doi: ""
