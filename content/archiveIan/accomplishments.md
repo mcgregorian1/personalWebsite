@@ -41,14 +41,6 @@ item:
   url: 
 - certificate_url: 
   date_end: ""
-  date_start: "2021-01-05"
-  description: Improving Near Real-Time Disturbance Monitoring
-  organization: RTI International
-  organization_url: 
-  title: Invited talk (virtual)
-  url: ""
-- certificate_url: 
-  date_end: ""
   date_start: "2020-02-26"
   description: Contributed poster
   organization: NC State College of Natural Resources

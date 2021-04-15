@@ -1,24 +1,24 @@
 ---
-title: Improving near real-time disturbance monitoring
+title: Can satellites reliably capture interannual GPP variability? (Yes, and it's pretty good)
 
-event: RDR Brown bag lunch
-event_url: 
+event: NC State College of Natural Resources Graduate Research Symposium 2020
+event_url:
 
-location: RTI International, virtual
+location: Raleigh, NC
 address:
-  street: 
-  city: Raleigh
-  region: NC
+  street:
+  city:
+  region:
   postcode: ''
-  country: United States
+  country:
 
-summary: This test test test
-abstract: For this virtual talk, I discussed my current progress for my PhD dissertation, which included the rationale and base methods for Chapter 1 along with some preliminary results.
+summary: CNR Graduate Research Symposium (poster)
+abstract: This was the first time we presented the lab's work on comparing MODIS-derived phenology with eddy-covariance flux tower phenology. Our hypothesis was that by using as much data as we could from the FLUXNET project, we might be able to see a stronger relationship between the two compared to previous studies.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-05T12:00:00Z"
-date_end: "2021-01-05T13:00:00Z"
+date: "2020-02-26"
+date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 
+  caption:
   focal_point: Right
 
 # Markdown Slides (optional).
@@ -46,5 +46,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["dissertation"]
+projects: ["flux"]
 ---
