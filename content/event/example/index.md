@@ -1,28 +1,30 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: RDR Brown bag lunch
+event_url: 
 
-location: Wowchemy HQ
+location: RTI International, virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 
+  city: Raleigh
+  region: NC
+  postcode: ''
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: An overview of multi-source remote sensing forest monitoring, representing my progress thus far for my dissertation
+abstract: "Monitoring forest disturbance in near real-time (NRT) is crucial for mitigation efforts across the world, and this is especially true in countries like Myanmar. As one of the most forested nations in Southeast Asia and home to high levels of biodiversity, the country is disproportionately affected by unchecked forest disturbance, usually by deforestation. Meanwhile, NRT monitoring via remote sensing has been advancing for decades, with recent methods providing promising results. However, there is a clear lack of success with smaller-scale disturbance events, whereby the time lag between an event and high confidence that the event occurred is >2 weeks. This is not ideal for forest managers, particularly in large protected areas, to intervene before the disturbance event has ended.
+
+This study addresses a new method of progressing NRT monitoring by using a multi-source approach. Specifically, we expand on recent efforts of combining remote sensing data by aggregating Sentinel (1,2 [top of atmosphere (TOA), surface reflectance (SR)]), Landsat (8, TOA and SR), and MODIS (MOD09GA, MOD09GQ) data for the normalized difference vegetation index (NDVI). We apply our method to Chatthin Wildlife Sanctuary in north-central Myanmar due to its biodiversity and our partnership with the park staff. Initial results yield a workflow for robust estimation of disturbance probability across the landscape. The next steps will focus on specific workflow decisions, including increasing the training data, optimizing Sentinel 1 data, and incorporating field work. To our knowledge, this study represents the first instance of a large multi-source method applied to NRT monitoring."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-01-05T12:00:00Z"
+date_end: "2021-01-05T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 authors: []
 tags: []
@@ -34,40 +36,17 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects: []
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

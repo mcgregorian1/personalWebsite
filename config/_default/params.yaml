@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: imcgreg@ncsu.edu
-phone: 888 888 88 88
 address:
   street: Jordan Hall 4120, 2800 Faucette Drive
   city: Raleigh
@@ -29,18 +28,6 @@ address:
   postcode: '27606'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/realclimatian'
 
 # Site header
 
