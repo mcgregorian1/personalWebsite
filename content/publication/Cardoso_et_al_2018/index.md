@@ -1,24 +1,22 @@
 ---
-title: "Tree height and leaf drought tolerance traits shape growth responses across droughts in a temperate broadleaf forest"
+title: "Grass Species Flammability, Not Biomass, Drives Changes in Fire Behavior at Tropical Forest-Savanna Transitions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Anabelle W. Cardoso
+- Imma Oliveras
+- Katharine A. Abernethy
+- Kathryn J. Jeffery
+- David Lehmann
+- Josué Edzang Ndong
 - admin
-- Ryan Helcoski
-- Norbert Kunert
-- Alan J. Tepley
-- Erika B. Gonzalez-Akre
-- Valentine Herrmann
-- Joseph Zailaa
-- Atticus E. L. Stovall
-- Norman A. Bourg
-- William J. McShea
-- Neil Pederson
-- Kristina J. Anderson-Teixeira
+- Claire M. Belcher
+- William J. Bond
+- Yadvinder S. Malhi
 
-date: "October 2020"
+date: "2018-11-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,13 +29,13 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *New Phytologist*
-publication_short: In *NewPhyt*
+publication: In *Frontiers in Forests and Global Change*
+publication_short: In *Front. For. Glob. Change*
 
-abstract: As climate change drives increased drought in many forested regions, mechanistic understanding of the factors conferring drought tolerance in trees is increasingly important. The dendrochronological record provides a window through which we can understand how tree size and traits shape growth responses to droughts. We analyzed tree-ring records for twelve species in a broadleaf deciduous forest in Virginia (USA) to test hypotheses for how tree height, microenvironment characteristics, and species’ traits shaped drought responses across the three strongest regional droughts over a 60-year period. Drought tolerance (resistance, recovery, and resilience) decreased with tree height, which was strongly correlated with exposure to higher solar radiation and evaporative demand. The potentially greater rooting volume of larger trees did not confer a resistance advantage, but marginally increased recovery and resilience, in sites with low topographic wetness index. Drought tolerance was greater among species whose leaves lost turgor (wilted) at more negative water potentials and experienced less shrinkage upon desiccation. The tree-ring record reveals that tree height and leaf drought tolerance traits influenced growth responses during and after significant droughts in the meteorological record. As climate change-induced droughts intensify, tall trees with drought-sensitive leaves will be most vulnerable to immediate and longer-term growth reductions.
+abstract: Forest-savanna mosaics are maintained by fire-mediated positive feedbacks; whereby forest is fire suppressive and savanna is fire promoting. Forest-savanna transitions therefore represent the interface of opposing fire regimes. Within the transition there is a threshold point at which tree canopy cover becomes sufficiently dense to shade out grasses and thus suppress fire. Prior to reaching this threshold, changes in fire behavior may already be occurring within the savanna. Such changes are neither empirically described nor their drivers understood. Fire behavior is largely driven by fuel flammability. Flammability can vary significantly between grass species and grass species composition can change near forest-savanna transitions. This study measured fire behavior changes at eighteen forest-savanna transition sites in a vegetation mosaic in Lopé National Park in Gabon, central Africa. The extent to which these changes could be attributed to changes in grass flammability was determined using species-specific flammability traits. Results showed simultaneous suppression of fire and grass biomass when tree canopy leaf area index (LAI) reached a value of 3, indicating that a fire suppression threshold existed within the forest-savanna transition. Fires became less intense and less hot prior to reaching this fire suppression threshold. These changes were associated with higher LAI values, which induced a change in the grass community, from one dominated by the highly flammable Anadelphia afzeliana to one dominated by the less flammable Hyparrhenia diplandra. Changes in fire behavior were not associated with changes in total grass biomass. This study demonstrated not only the presence of a fire suppression threshold but the mechanism of its action. Grass composition mediated fire-behavior within the savanna prior to reaching the suppression threshold, and grass species composition was mediated by tree canopy cover which was in turn mediated by fire-behavior. These findings highlight how biotic and abiotic controls interact and amplify each other in this mosaicked landscape to facilitate forest and savanna co-existence.
 
 # Summary. An optional shortened abstract.
-summary: Tree-ring records from a long-term forest monitoring plot in NW Virginia (USA) reveal that tree height and leaf drought tolerance traits influenced growth responses during and after significant droughts in the meteorological record. As climate change-induced droughts intensify, tall trees with drought-sensitive leaves will be most vulnerable to immediate and longer-term growth reductions.
+summary: Forest-savanna mosaics are maintained by fire-mediated positive feedbacks; whereby forest is fire suppressive and savanna is fire promoting. Forest-savanna transitions therefore represent the interface of opposing fire regimes. Within the transition there is a threshold point at which tree canopy cover becomes sufficiently dense to shade out grasses and thus suppress fire. Changes in fire behavior were not associated with changes in total grass biomass. Grass composition mediated fire-behavior within the savanna prior to reaching the suppression threshold, and grass species composition was mediated by tree canopy cover which was in turn mediated by fire-behavior. These findings highlight how biotic and abiotic controls interact and amplify each other in this mosaicked landscape to facilitate forest and savanna co-existence.
 
 tags: []
 
@@ -49,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16996'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/ffgc.2018.00006/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Field work in the forest plot'
+  caption: 'Savanna-rainforest mosaic at a study site, Gabon'
   focal_point: ""
   preview_only: false
 
@@ -70,13 +68,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

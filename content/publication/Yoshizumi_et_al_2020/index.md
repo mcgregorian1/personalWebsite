@@ -1,24 +1,20 @@
 ---
-title: "Tree height and leaf drought tolerance traits shape growth responses across droughts in a temperate broadleaf forest"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+title: "A Review of Geospatial Content in IEEE Visualization Publications"
 authors:
+- Alexander Yoshizumi
+- Megan M. Coffer
+- Elyssa L. Collins
+- Mollie D. Gaines
+- Xiaojie Gao
+- Kate Jones
 - admin
-- Ryan Helcoski
-- Norbert Kunert
-- Alan J. Tepley
-- Erika B. Gonzalez-Akre
-- Valentine Herrmann
-- Joseph Zailaa
-- Atticus E. L. Stovall
-- Norman A. Bourg
-- William J. McShea
-- Neil Pederson
-- Kristina J. Anderson-Teixeira
+- Katie A. McQuillan
+- Vinicius Perin
+- Laura M. Tomkins
+- Thom Worm
+- Laura Tateosian
 
-date: "October 2020"
+date: "2020-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,40 +24,39 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *New Phytologist*
-publication_short: In *NewPhyt*
+publication: In *IEEE VIS Short Paper Proceedings 2020*
+publication_short: In *IEEE VIS*
 
-abstract: As climate change drives increased drought in many forested regions, mechanistic understanding of the factors conferring drought tolerance in trees is increasingly important. The dendrochronological record provides a window through which we can understand how tree size and traits shape growth responses to droughts. We analyzed tree-ring records for twelve species in a broadleaf deciduous forest in Virginia (USA) to test hypotheses for how tree height, microenvironment characteristics, and species’ traits shaped drought responses across the three strongest regional droughts over a 60-year period. Drought tolerance (resistance, recovery, and resilience) decreased with tree height, which was strongly correlated with exposure to higher solar radiation and evaporative demand. The potentially greater rooting volume of larger trees did not confer a resistance advantage, but marginally increased recovery and resilience, in sites with low topographic wetness index. Drought tolerance was greater among species whose leaves lost turgor (wilted) at more negative water potentials and experienced less shrinkage upon desiccation. The tree-ring record reveals that tree height and leaf drought tolerance traits influenced growth responses during and after significant droughts in the meteorological record. As climate change-induced droughts intensify, tall trees with drought-sensitive leaves will be most vulnerable to immediate and longer-term growth reductions.
+abstract: Geospatial analysis is crucial for addressing many of the world's most pressing challenges. Given this, there is immense value in improving and expanding the visualization techniques used to communicate geospatial data. In this work, we explore this important intersection -- between geospatial analytics and visualization -- by examining a set of recent IEEE VIS Conference papers (a selection from 2017-2019) to assess the inclusion of geospatial data and geospatial analyses within these papers. After removing the papers with no geospatial data, we organize the remaining literature into geospatial data domain categories and provide insight into how these categories relate to VIS Conference paper types. We also contextualize our results by investigating the use of geospatial terms in IEEE Visualization publications over the last 30 years. Our work provides an understanding of the quantity and role of geospatial subject matter in recent IEEE VIS publications and supplies a foundation for future meta-analytical work around geospatial analytics and geovisualization that may shed light on opportunities for innovation.
 
 # Summary. An optional shortened abstract.
-summary: Tree-ring records from a long-term forest monitoring plot in NW Virginia (USA) reveal that tree height and leaf drought tolerance traits influenced growth responses during and after significant droughts in the meteorological record. As climate change-induced droughts intensify, tall trees with drought-sensitive leaves will be most vulnerable to immediate and longer-term growth reductions.
+summary: Geospatial analysis is crucial for addressing many of the world's most pressing challenges. Given this, there is immense value in improving and expanding the visualization techniques used to communicate geospatial data. In this work, we explore this important intersection -- between geospatial analytics and visualization -- by examining a set of recent IEEE VIS Conference papers (a selection from 2017-2019) to assess the inclusion of geospatial data and geospatial analyses within these papers.
 
-tags: []
+tags:
 
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
-# links:
+links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16996'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://arxiv.org/abs/2009.03390'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Field work in the forest plot'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -70,13 +65,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+- projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---

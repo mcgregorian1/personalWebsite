@@ -42,7 +42,7 @@ summary: Tree-ring records from a long-term forest monitoring plot in NW Virgini
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -71,7 +71,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- scbi-forestgeo
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
