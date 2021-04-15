@@ -5,7 +5,7 @@
 
 title: Ian McGregor # Website name
 baseurl: 'https://ianmcgregor.netlify.app/' # Website URL
-copyright: '© 2021 Ian McGregor | Website icon created by Emfahmin from Noun Project' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Ian McGregor | Website icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
