@@ -19,7 +19,7 @@ abstract: For this meeting, I presented on new results compared to the IALE-NA 2
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-08-03"
 date_end: "2020-08-07"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""

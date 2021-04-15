@@ -19,7 +19,7 @@ abstract: Originally a contributed talk before covid restrictions began, this po
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-05-11"
 date_end: "2020-05-14"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""

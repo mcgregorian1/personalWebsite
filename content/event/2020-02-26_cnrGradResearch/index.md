@@ -1,5 +1,5 @@
 ---
-title: Can satellites reliably capture interannual GPP variability? (Yes, and it's pretty good)
+title: Can satellites reliably capture interannual GPP variability? (Yes, and they're pretty good)
 
 event: NC State College of Natural Resources Graduate Research Symposium 2020
 event_url:
@@ -12,14 +12,14 @@ address:
   postcode: ''
   country:
 
-summary: CNR Graduate Research Symposium (poster)
+summary: CNR Graduate Research Symposium (Poster)
 abstract: This was the first time we presented the lab's work on comparing MODIS-derived phenology with eddy-covariance flux tower phenology. Our hypothesis was that by using as much data as we could from the FLUXNET project, we might be able to see a stronger relationship between the two compared to previous studies.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-02-26"
-date_end: ""
-all_day: false
+#  date_end: ""
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""

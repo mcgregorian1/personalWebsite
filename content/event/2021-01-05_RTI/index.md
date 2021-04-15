@@ -4,7 +4,7 @@ title: Improving near real-time disturbance monitoring
 event: RDR Brown bag lunch
 event_url: 
 
-location: RTI International, virtual
+location: RTI International (virtual)
 address:
   street: 
   city: Raleigh
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: Invited (virtual) talk for RTI International
+summary: Invited talk for RTI International
 abstract: For this virtual talk, I discussed my current progress for my PhD dissertation, which included the rationale and base methods for Chapter 1 along with some preliminary results.
 
 # Talk start and end times.
