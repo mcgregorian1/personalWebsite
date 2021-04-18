@@ -31,6 +31,8 @@ content:
     tag: Forest ecology
   - name: Remote sensing
     tag: Remote sensing
+  - name: Flux
+    tag: Flux
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
