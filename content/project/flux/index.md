@@ -1,5 +1,5 @@
 ---
-title: Seeing the forest with the trees: A flux story
+title: Seeing the forest with the trees - A flux story
 summary: Eddy-covariance flux towers directly measure fluxes between the atmosphere and the planet, most notably carbon (CO2). The amount of carbon flux at any time is representative of phenology, or the timing of plants' life cycles. We are able to derive this phenology from satellites as well, but the exact correlation to the flux towers has been unknown (when using a lot of data). Our research aims to fix that.
 tags:
 - Remote sensing
