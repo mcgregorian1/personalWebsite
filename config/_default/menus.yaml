@@ -19,6 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
+  - name: Funding
+    url: '#funding'
+    weight: 70
   - name: Contact
     url: '#contact'
     weight: 60
