@@ -33,8 +33,8 @@ design:
 - Term: 2020-2021 (1 year) 
 
 **NASA Future Investigator in Earth and Space Science and Technology (FINESST)**
-- 135,000 USD
-- Term: 2020-2023 (3 years)
+  - 135,000 USD
+  - Term: 2020-2023 (3 years)
 
 **NC Space Grant Graduate Research Fellow**
 - 10,000 USD
