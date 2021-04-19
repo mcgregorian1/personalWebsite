@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: External funding
+title: External Funding
 subtitle:
 
 design:
@@ -27,18 +27,19 @@ design:
 #   spacing:
 #     padding: ["20px", "0", "20px", "0"]
 ---
-- 2020-07: **US Geospatial Intelligence Foundation Doctoral Scholarship**
+## 2020
+- **US Geospatial Intelligence Foundation Doctoral Scholarship**
   - 5,000 USD
   - Term: 2020-2021 (1 year) 
-- 2020-06: **NASA Future Investigator in Earth and Space Science and Technology (FINESST)**
+- **NASA Future Investigator in Earth and Space Science and Technology (FINESST)**
   - 135,000 USD
   - Term: 2020-2023 (3 years)
-- 2020-05: **NC Space Grant Graduate Research Fellow**
+- **NC Space Grant Graduate Research Fellow**
   - 10,000 USD
   - Term: 2020-2021 (1 year)
-- 2020-04: **International Association for Landscape Ecology North America (IALE-NA) Student Travel Award**
+- **International Association for Landscape Ecology North America (IALE-NA) Student Travel Award**
   - 700 USD
-- 2020-04: **Geospatial Analytics Travel Award**
+- **Geospatial Analytics Travel Award**
   - 800 USD
 
 
