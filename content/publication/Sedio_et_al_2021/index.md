@@ -12,7 +12,7 @@ authors:
 - Maria D. Person
 - Hamssika Chandrasekaran
 - Jack H. Dwenger
-- Maria L. Prechi
+- María L. Prechi
 - Christian A. López
 - David N. Allen
 - Kristina J. Anderson-Teixeira
@@ -56,7 +56,7 @@ summary: Plant diversity varies immensely over large-scale gradients in temperat
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
