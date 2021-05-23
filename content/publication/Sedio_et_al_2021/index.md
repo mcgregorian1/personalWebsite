@@ -26,9 +26,9 @@ authors:
 - Jordan Kueneman
 - Joseph Lamanna
 - James A. Lutz
-- Iadmin
+- admin
 - Sean M. McMahon
-- Geoffrey G.  Parker
+- Geoffrey G. Parker
 - John D. Parker
 - John Vandermeer
 

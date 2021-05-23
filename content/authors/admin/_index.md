@@ -63,11 +63,11 @@ social:
   link: https:://orcid.org/0000-0002-5763-021X
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.yaml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +78,4 @@ highlight_name: true
 
 Ian is a Geospatial Analytics PhD student at NC State University, where he is a NASA Future Investigator (FINESST) researching near real-time monitoring of deforestation. His advisor is Dr. Josh Gray, with whom Ian has analyzed phenology and carbon flux responses to climate change. Prior to his time at NC State, Ian worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
