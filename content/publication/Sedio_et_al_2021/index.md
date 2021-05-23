@@ -12,7 +12,7 @@ authors:
 - Maria D. Person
 - Hamssika Chandrasekaran
 - Jack H. Dwenger
-- María L. Prechi
+- Maria L. Prechi
 - Christian A. López
 - David N. Allen
 - Kristina J. Anderson-Teixeira
