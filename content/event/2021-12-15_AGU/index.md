@@ -6,8 +6,8 @@ event_url:
 location: New Orleans, LA
 address:
   street:
-  city: 
-  region: 
+  city: New Orleans
+  region: LA
   postcode: ''
   country: United States
 
