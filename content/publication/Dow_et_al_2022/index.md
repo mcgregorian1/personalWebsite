@@ -1,6 +1,6 @@
 ---
 title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree
-growth but have little effect on annual woody productivity [in review]"
+growth but have little effect on annual woody productivity (in review)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

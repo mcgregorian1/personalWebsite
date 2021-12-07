@@ -1,5 +1,5 @@
 ---
-title: "Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications [in review]"
+title: "Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications (in review)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

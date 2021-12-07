@@ -1,5 +1,5 @@
 ---
-title: "Using GitHub Actions continuous integration to automate quality assurance and control of data on ecological dynamics [in prep]"
+title: "Using GitHub Actions continuous integration to automate quality assurance and control of data on ecological dynamics (in prep)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
