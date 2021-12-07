@@ -1,5 +1,5 @@
 ---
-title: "Using GitHub Actions continuous integration to automate quality assurance and control of data on ecological dynamics"
+title: "Using GitHub Actions continuous integration to automate quality assurance and control of data on ecological dynamics [in prep]"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -20,7 +20,7 @@ authors:
 - Jessica Shue
 - Kristina J. Anderson-Teixeira
 
-date: "2022"
+date: "2022-12-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

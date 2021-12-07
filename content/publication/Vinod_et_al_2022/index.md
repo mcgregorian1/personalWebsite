@@ -1,5 +1,5 @@
 ---
-title: "Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications"
+title: "Thermal sensitivity across forest vertical profiles: patterns, mechanisms, and ecological implications [in review]"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +14,7 @@ authors:
 - Lawren Sack
 - Kristina J. Anderson-Teixeira
 
-date: "2022"
+date: "2022-12-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

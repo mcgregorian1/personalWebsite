@@ -1,6 +1,6 @@
 ---
 title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree
-growth but have little effect on annual woody productivity"
+growth but have little effect on annual woody productivity [in review]"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,7 +21,7 @@ authors:
 - Alan J. Tepley
 - Kristina J. Anderson-Teixeira
 
-date: "2022"
+date: "2022-12-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
