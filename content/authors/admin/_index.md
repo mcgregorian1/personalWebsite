@@ -6,7 +6,7 @@ title: Ian R. McGregor
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://cnr.ncsu.edu/geospatial/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student in geospatial analytics
+bio: PhD Candidate in geospatial analytics
 
 # Interests to show in About widget
 interests:

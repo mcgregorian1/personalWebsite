@@ -28,13 +28,13 @@ design:
 #     padding: ["20px", "0", "20px", "0"]
 ---
 ## 2020
-**US Geospatial Intelligence Foundation Doctoral Scholarship**
-- 5,000 USD
-- Term: 2020-2021 (1 year) 
-
 **NASA Future Investigator in Earth and Space Science and Technology (FINESST)**
   - 135,000 USD
   - Term: 2020-2023 (3 years)
+
+**US Geospatial Intelligence Foundation Doctoral Scholarship**
+- 5,000 USD
+- Term: 2020-2021 (1 year) 
 
 **NC Space Grant Graduate Research Fellow**
 - 10,000 USD
@@ -43,7 +43,7 @@ design:
 **International Association for Landscape Ecology North America (IALE-NA) Student Travel Award**
 - 700 USD
 
-**Geospatial Analytics Travel Award**
+**NCSU Center for Geospatial Analytics Travel Award**
 - 800 USD
 
 
