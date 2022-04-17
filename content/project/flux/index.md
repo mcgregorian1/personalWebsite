@@ -35,3 +35,5 @@ By consistently emitting carbon into the atmosphere, humans are actively contrib
 
 Though there are flux towers that directly capture carbon exchange between the ecosystems and the atmosphere, they are geographically limited and thus are not representative of the variety of ecosystems across the world. On the flip side, remote sensing analysis techniques have undergone rapid advancement, and prior studies have shown we might be able to capture carbon dynamics with satellite sensors. This can be done by scrutinizing phenometrics, or the timing of phenological events such as leaf-out and senescence. As these phenometrics can be derived from both the sensors and the flux towers themselves, we wanted to answer the question: how well can we use remote sensing to capture annual GPP?
 
+The culmination of this work will be presented in the upcoming article Gao et al 2022, "Greening increases global vegetation productivity more than extending growing season length" (currently in review).
+

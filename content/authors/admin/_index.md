@@ -45,10 +45,10 @@ social:
   link: 'mailto:imcgreg@ncsu.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/realclimatian
+  link: https://twitter.com/ecoterrestrian
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.de/citations?user=TU8S6iIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=TU8S6iIAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/mcgregorian1
@@ -60,7 +60,7 @@ social:
   link: https://www.researchgate.net/profile/Ian-Mcgregor-5
 - icon: orcid
   icon_pack: fab
-  link: https:://orcid.org/0000-0002-5763-021X
+  link: https://orcid.org/0000-0002-5763-021X
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.yaml`, 
@@ -76,6 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-Ian is a Geospatial Analytics PhD student at NC State University, where he is a NASA Future Investigator (FINESST) researching near real-time monitoring of deforestation. His advisor is Dr. Josh Gray, with whom Ian has analyzed phenology and carbon flux responses to climate change. Prior to his time at NC State, Ian worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
+Ian is a Geospatial Analytics PhD student at NC State University, where he is a NASA Future Investigator (FINESST) researching near real-time monitoring of deforestation as part of the [Spatial Ecosystems Analytics Lab](https://ncsu-seal.netlify.app/) under Dr. Josh Gray. Prior to his FINESST tenure, Ian analyzed phenology and carbon flux responses to climate change as a graduate research assistant with Dr. Gray. Before his time at NC State, Ian worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

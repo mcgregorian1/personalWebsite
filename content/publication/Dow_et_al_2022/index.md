@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/357075310_Warmer_spring_temperatures_in_temperate_deciduous_forests_advance_the_timing_of_tree_growth_but_have_little_effect_on_annual_woody_productivity'
 url_code: ''
 url_dataset: ''
 url_poster: ''
