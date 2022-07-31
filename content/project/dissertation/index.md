@@ -1,6 +1,6 @@
 ---
 title: Improving near real-time forest disturbance monitoring using multi-source satellite data
-summary: Identifying deforestation quickly is key to mitigating forest loss around the world. We believe leveraging the availability of near-instantaneous satellite data can both help effectively monitor without being computationally instensive and be accessible to relevant stakeholders.
+summary: Identifying deforestation quickly is key to mitigating forest loss around the world. We believe leveraging the availability of near-instantaneous satellite data can both help effectively monitor without being computationally intensive and be accessible to relevant stakeholders.
 tags:
 - Remote sensing
 - Forest ecology
@@ -38,3 +38,5 @@ As one of the main drivers of biodiversity loss, deforestation is a major issue 
 - Objective 2: Create a continuously ground-validated application system using the probability maps.
     - The daily maps will be available via a Google Earth Engine (GEE) app with multi-source imagery, including MODIS/VIIRS, Landsat 8, and Sentinels 1 and 2
     - The application will incorporate user (forest manager) interactive feedback by refining the training data, which will fix the current data creator / data user paradigm by closing the loop between the two actors.
+    
+The majority of the analysis takes place in R, including processing of satellite imagery, modelling with linear models and exponentially-weighted moving averages, and spatial analysis. Google Earth Engine was used for the initial formatting and downloading of training data, while PLANET's imagery and API was used to manually identify training points. Other technical skills used for the project include Python, ArcGIS, and QGIS.

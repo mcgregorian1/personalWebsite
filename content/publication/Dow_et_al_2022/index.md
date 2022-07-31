@@ -1,6 +1,5 @@
 ---
-title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree
-growth but have little effect on annual woody productivity (in review)"
+title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree growth but have little effect on annual woody productivity (accepted)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,10 +30,10 @@ publishDate: "2021-12-06"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:
+publication: Nature
 publication_short:
 
 abstract: As the climate changes, warmer spring temperatures are causing earlier leaf-out and commencement of net carbon dioxide (CO2) sequestration in temperate deciduous forests, resulting in a tendency towards increased growing season length and annual CO2 uptake. However, less is known about how spring temperatures affect tree stem growth, which sequesters carbon (C) in wood that has a long residence time in the ecosystem. Using dendrometer band measurements from 463 trees across two forests, we show that warmer spring temperatures shifted the woody growth of deciduous trees earlier but had no consistent effect on peak growing season length, maximum daily growth rates, or annual growth. The latter finding was confirmed on the centennial scale by 207 tree-ring chronologies from 108 forests across eastern North America, where annual growth was far more sensitive to temperatures during the peak growing season than in the spring. These findings imply that extra CO2 uptake in years with warmer springs 10–12 is not allocated to long-lived woody biomass, where it could have a substantial and lasting impact on the forest C balance. Rather, contradicting current projections from global C cycle models, our empirical results imply that warming spring temperatures are unlikely to increase the woody productivity or strengthen the CO2 sink of temperate deciduous forests.
