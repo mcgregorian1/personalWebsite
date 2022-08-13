@@ -1,5 +1,5 @@
 ---
-title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree growth but have little effect on annual woody productivity (accepted)"
+title: "Warmer spring temperatures in temperate deciduous forests advance the timing of tree growth but have little effect on annual woody productivity"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -20,7 +20,7 @@ authors:
 - Alan J. Tepley
 - Kristina J. Anderson-Teixeira
 
-date: "2022-07-31"
+date: "2022-08-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/357075310_Warmer_spring_temperatures_in_temperate_deciduous_forests_advance_the_timing_of_tree_growth_but_have_little_effect_on_annual_woody_productivity'
+url_pdf: 'https://www.nature.com/articles/s41586-022-05092-3'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'From Fig. 1: Temperate deciduous tree growth responses to warmer spring
+  caption: 'From Fig. 1: Summary of temperate deciduous tree growth responses to warmer spring
 temperatures.'
   focal_point: ""
   preview_only: false
