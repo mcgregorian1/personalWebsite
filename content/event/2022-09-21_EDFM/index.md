@@ -17,8 +17,8 @@ abstract: Similar to the ESA conference from a month prior, this poster illustra
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-21"
-date_end: "2022-09-21"
+date: "2022-09-19"
+date_end: "2022-09-22"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
