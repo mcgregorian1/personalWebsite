@@ -4,7 +4,7 @@ title: Beyond the binary - improving near-real time deforestation monitoring by 
 event: Forest Disturbance and Ecosystem Dynamics Symposium 2022
 event_url:
 
-location: Berchtesgaden National Park, Germany
+location: Berchtesgaden, Germany
 address:
   street:
   city:
