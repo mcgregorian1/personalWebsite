@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2019 - 2023
+    year: 2023
   - course: MSc in Environmental Change and Management
     institution: University of Oxford
     year: 2017
