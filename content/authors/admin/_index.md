@@ -6,28 +6,29 @@ title: Ian R. McGregor
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Center for Geospatial Analytics, North Carolina State University
-  url: https://cnr.ncsu.edu/geospatial/
+- name: Cary Institute of Ecosystem Studies
+  url: https://www.caryinstitute.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in geospatial analytics
+bio: Postdoctoral Associate at the Cary Institute
 
 # Interests to show in About widget
 interests:
 - Forest ecology
 - Remote sensing
-- National parks
+- Data analytics
+- Conservation ecology
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Geospatial Analytics
     institution: North Carolina State University
-    year: 2019 - present
+    year: 2019 - 2023
   - course: MSc in Environmental Change and Management
     institution: University of Oxford
     year: 2017
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:imcgreg@ncsu.edu'
+  link: 'mailto:mcgregori@caryinstitute.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ecoterrestrian
@@ -76,6 +77,6 @@ email: ""
 highlight_name: true
 ---
 
-Ian is a Geospatial Analytics PhD student at NC State University, where he is a NASA Future Investigator (FINESST) researching near real-time monitoring of deforestation as part of the [Spatial Ecosystems Analytics Lab](https://ncsu-seal.netlify.app/) under Dr. Josh Gray. Prior to his FINESST tenure, Ian analyzed phenology and carbon flux responses to climate change as a graduate research assistant with Dr. Gray. Before his time at NC State, Ian worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
+Ian is currently a Postdoctoral Associate under Dr. Evan Gora at the Cary Institute of Ecosystem Studies, where he is researching lightning effects on tropical forest biodiversity using remote sensing. Previously, Ian completed his PhD in Geospatial Analytics at NC State University under Dr. Josh Gray, where he was a NASA Future Investigator researching near real-time monitoring of deforestation. Before NC State, he worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
