@@ -13,7 +13,7 @@ address:
   country:
 
 summary: Oral presentation as part of a forum series.
-abstract: Detecting deforestation as quickly and accurately as possible is important for near real-time monitoring (NRTm) of forests, especially via remote sensing. Recently, multi-source approaches have improved our detection capability, but some studies have hinted at the lack of an optimal solution. To explore this accuracy-latency trade-off and determine if it’s limited to optical sensors, we developed a novel approach combining data from Landsat-8, Sentinel-2, and Sentinel-1 in northern Myanmar. We found three main results: 1) we quantified the full spectrum of trade-offs; 2) including Sentinel-1 did not improve results; and 3) our approach returned fast detections with high accuracy.
+abstract: Detecting deforestation as quickly and accurately as possible is important for near real-time monitoring (NRTm) of forests, especially via remote sensing. Recently, multi-source approaches have improved our detection capability, but some studies have hinted at the lack of an optimal solution. To explore this accuracy-latency trade-off and determine if it’s limited to optical sensors, we developed a novel approach combining data from Landsat-8, Sentinel-2, and Sentinel-1 in northern Myanmar. We found three main results - 1) we quantified the full spectrum of trade-offs; 2) including Sentinel-1 did not improve results; and 3) our approach returned fast detections with high accuracy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
