@@ -1,5 +1,5 @@
 ---
-title: ASAP or AAAP? The Importance of Tradeoffs Between Detection Time and Accuracy for Multisource Deforestation Monitoring.
+title: ASAP or AAAP? The Importance of Tradeoffs Between Detection Time and Accuracy for Multisource Deforestation Monitoring (same poster as AGU 2022)
 event: North Carolina State University Graduate Research Symposium
 event_url:
 
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: United States
 
-summary: Poster presentation for AGU 2022
+summary: North Carolina State University Graduate Research Symposium
 abstract: Abstract and poster are the same as for AGU 2022 (this was allowed and encouraged; the organizers did not want to put more burden on students).
 
 
