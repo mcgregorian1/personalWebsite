@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Poster presentation for AGU 2022
-abstract: Detecting deforestation quickly and accurately has long been a focus of remote sensing, and with the large availability of satellite data, methods have continuously advanced. To lower temporal latency and increase accuracy, a growing number of studies have pursued multi-source approaches. 
+abstract: Detecting deforestation quickly and accurately has long been a focus of remote sensing, and with the large availability of satellite data, methods have continuously advanced. To lower temporal latency and increase accuracy, a growing number of studies have pursued multi-source approaches. For instance, in areas of persistent cloud cover, using synthetic aperture radar (SAR) may be the only source of observations. Typically, near real-time (NRT) monitoring approaches have used retrospective change detection methods to maximize an accuracy metric like the F1 score. Much less attention has been paid to potential parameter 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
