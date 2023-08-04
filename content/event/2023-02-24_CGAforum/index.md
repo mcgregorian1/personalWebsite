@@ -1,5 +1,5 @@
 ---
-title: Tortoise or hare? The importance of trade-offs between detection time and accuracy for multi-source deforestation monitoring. 
+title: Tortoise or hare? The importance of trade-offs between detection time and accuracy for multi-source deforestation monitoring
 
 event: Center for Geospatial Analytics Doctoral Student Forum
 event_url:
