@@ -1,5 +1,6 @@
 ---
 title: ASAP or AAAP? The Importance of Tradeoffs Between Detection Time and Accuracy for Multisource Deforestation Monitoring. 
+
 event: American Geophysical Union (AGU) Annual Meeting 2022
 event_url:
 
